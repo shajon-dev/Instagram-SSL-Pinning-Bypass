@@ -3,11 +3,11 @@
 
 ## 📌 Latest Tested App Version
 - 🎯 Instagram App version: **406.0.0.58.159**
-- 🏗️ Architecture: **arm64-v8a**, **armeabi-v7a**, **x86**, **x86_64**
+- 🏗️ Architecture: **arm64-v8a**, **x86_64**
 
-![main desktop](https://raw.githubusercontent.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/main/IMAGE/v406.jpg)
+![main desktop](https://raw.githubusercontent.com/shajon-dev/Instagram-SSL-Pinning-Bypass/main/IMAGE/v406.jpg)
 
-![headers desktop](https://raw.githubusercontent.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/main/IMAGE/instagram2.jpg)
+![headers desktop](https://raw.githubusercontent.com/shajon-dev/Instagram-SSL-Pinning-Bypass/main/IMAGE/instagram2.jpg)
 
 ## 💻 Requirements for Emulator
 1. 🖥️ Windows PC with Reqable installed  
