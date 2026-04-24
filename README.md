@@ -4,7 +4,7 @@
 ## 📌 Latest Bypassed and Tested App Details
 - App version: **426.0.0.37.68**
 - Architecture: **arm64-v8a, armeabi-v7a, x86, x86_64**
-- Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
+- Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
@@ -75,7 +75,7 @@ If this project helped you, consider buying me a coffee! ❤️
 
 ## 🔧 Setup Process
  1. 📲 **Install Modified APK** & run http traffic capture tool.
- 2. Use any packet capture tool to monitor Instagram network traffic.
+ 2. 🔄 Tools for traffic capture: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 
 ## Looking for leatest version modified apk? Contact me on Telegram
 <p align="left">
