@@ -69,13 +69,9 @@ If this project helped you, consider buying me a coffee! ❤️
 | <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="20" /></td><td>&nbsp;<b>ANY Crypto</b></td></tr></table> | ETH / BSC | `0x22d4f314acbf6055b0a37df8df68f9cd40ba889a` |
 | <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" width="20" /></td><td>&nbsp;<b>BTC</b></td></tr></table> | Bitcoin Network | `14RYf4pw7v2rtttLxRch2StjFzFAn9ycCE` |
 
-## 📱 Requirements
-1. 🔓 Rooted or Rootless Android phone/tablet (no need root access)
-2. 🔄 ProxyPin or Reqable App for traffic capture
-
 ## 🔧 Setup Process
- 1. 📲 **Install Modified APK** & run http traffic capture tool.
- 2. 🔄 Tools for traffic capture: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
+1. 📲 Install the modified APK on a rooted or non-rooted Android device, then run an HTTP traffic capture tool.
+2. 🔄 Use traffic capture tools such as [Mitmproxy](https://mitmproxy.org/) or [Reqable](https://reqable.com/).
 
 ## Looking for leatest version modified apk? Contact me on Telegram
 <p align="left">
