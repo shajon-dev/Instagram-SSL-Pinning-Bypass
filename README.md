@@ -2,13 +2,13 @@
 📡 Intercept Instagram network traffic on Android device
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **437.0.0.33.78**
+- App version: **440.1.0.46.86**
 - Architecture: **arm64-v8a, armeabi-v7a, x86, x86_64**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ## 🎥 Evidence
-![Instagram Android](assets/v437.jpg)
+![Instagram Android](assets/v440.jpg)
 
 ## ✅ Other Apps
 1. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
@@ -19,6 +19,8 @@
 6. [Threads Android](https://github.com/shajon-dev/Threads-SSL-Pinning-Bypass)
 7. [Threads iOS](https://github.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass)
 8. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
+9. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suit-SSL-Pinning-Bypass)
+10. [TikTok iOS](https://github.com/shajon-dev/iOS-TikTok-SSL-Pinning-Bypass)
 
 ## 📦 For Demo - Download Official APKs
   - For any issues, contact me on Telegram. Read README.md carefully before use.
@@ -40,7 +42,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.instagram.android</code></td>
-      <td align="center">437.0.0.33.78</td>
+      <td align="center">440.1.0.46.86</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">Yes</td>
       <td colspan="2" align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
