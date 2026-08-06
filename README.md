@@ -41,11 +41,18 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2" align="center"><code>com.instagram.android</code></td>
+      <td rowspan="3" align="center"><code>com.instagram.android</code></td>
       <td align="center">440.1.0.46.86</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">Yes</td>
       <td colspan="2" align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
+    </tr>
+    <tr>
+      <td align="center">400.0.0.49.68</td>
+      <td align="center">✅ Bypassed</td>
+      <td align="center">Yes</td>
+      <td align="center"><a href="https://github.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/releases/download/v400.0.0.49.68/Instagram-400.0.0.49.68-arm64-v8a.apk">Download Link</a></td>
+      <td align="center"><a href="https://github.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/releases/download/v400.0.0.49.68/Instagram-400.0.0.49.68-x86_64.apk">Download Link</a></td>
     </tr>
     <tr>
       <td align="center">390.0.0.43.81</td>
